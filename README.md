@@ -27,5 +27,5 @@ Este repositório contém o passo a passo que segui ao executar o tutorial [Mach
 
 ---
 
-**Autor:**  
+**Autor:Alexandre Batista Sampaio**  
 Este documento reflete minha execução do tutorial oficial da Microsoft.  
