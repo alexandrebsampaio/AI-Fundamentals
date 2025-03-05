@@ -23,7 +23,7 @@ Este repositório contém o passo a passo que segui ao executar o tutorial [Mach
 
 4. **Teste do Endpoint**  
    - Fiz uma requisição JSON para testar a API do modelo.  
-   - O arquivo de teste pode ser encontrado [aqui](endpoint_test.json).  
+   - O arquivo de teste pode ser encontrado [aqui](test.json).  
 
 ---
 
