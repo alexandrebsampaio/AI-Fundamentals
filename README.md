@@ -18,6 +18,8 @@ Este repositório contém o passo a passo que segui ao executar o tutorial [Mach
    - Executei o treinamento do modelo.  
 
 3. **Implantação do Modelo**  
+   - Ao publicar o modelo me teparei com o erro: Resource provider [N/A] isn't registered with Subscription [N/A]
+     - Resolvi essa questão registrando em subscription > settings > Resource provider os providers Microsoft.Network, Microsoft.Api, Microsoft.Cdn, Microsoft.Web, Microsoft.PolicyInsights que não estavam registrados
    - Publiquei o modelo como um serviço em um endpoint.  
    - Gere a chave de acesso e a URL do endpoint.  
 
